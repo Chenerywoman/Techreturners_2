@@ -1,18 +1,40 @@
 body {
-  background: url(tram_picture.jpeg) no-repeat center center fixed;
+  background: url(clover-1225988_1280.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  /*background-color: green;
+  background-blend-mode: screen;*/
+  font-size: 100%;
 }
 
 
 .heading {
-  color: white;
-  margin-left: 5%;
+  color: #d9ecd0;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  margin-top: 5%;
+  font-size: 3em;
+
 }
 
 .main_text {
+  color: #d9ecd0;
+  text-align: justify;
+  font-size: 1.5em;
+}
+
+.contact{
   color: white;
-  margin-left: 5%;
+  font-size: 2.5em;
+}
+
+.testimonials{
+  color: #d9ecd0;
+}
+
+.test {
+  border: solid 10px red;
 }
