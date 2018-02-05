@@ -9,7 +9,6 @@ body {
   font-size: 100%;
 }
 
-
 .heading {
   color: #d9ecd0;
   margin-left: auto;
@@ -27,7 +26,7 @@ body {
 }
 
 .contact{
-  color: white;
+  color: #d9ecd0;
   font-size: 2.5em;
 }
 
