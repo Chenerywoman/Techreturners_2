@@ -14,7 +14,7 @@ body {
   margin-left: auto;
   margin-right: auto;
   text-align: center;
-  margin-top: 5%;
+  margin-top: 1%;
   font-size: 3em;
 
 }
@@ -22,7 +22,7 @@ body {
 .main_text {
   color: #d9ecd0;
   text-align: justify;
-  font-size: 1.5em;
+  font-size: 1.2  em;
 }
 
 .contact{
@@ -32,8 +32,4 @@ body {
 
 .testimonials{
   color: #d9ecd0;
-}
-
-.test {
-  border: solid 10px red;
 }
